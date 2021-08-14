@@ -7,13 +7,13 @@
 
 
 ## My skills
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg' alt='Python' width='50' height= '80' style='max-width:100%;'
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg' alt='HTML5' width='50' height= '80' style='max-width:100%;'
 style='max-width:100%;'>
 </img>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg' alt='Django' width='50' height= '80' style='max-width:100%;'
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg' alt='CSS3' width='50' height= '80' style='max-width:100%;'
 style='max-width:100%;'>
 </img>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' alt='MySQL' width='50' height= '80' style='max-width:100%;'
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt='Python' width='50' height= '80' style='max-width:100%;'
 style='max-width:100%;'>
 </img>
 
