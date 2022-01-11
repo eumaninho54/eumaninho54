@@ -15,6 +15,9 @@ style='max-width:100%;'>
 style='max-width:100%;'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' alt='TypeScript' width='40' height= '75' style='max-width:100%;'
 style='max-width:100%;'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' alt='ReactJs' width='40' height= '75' style='max-width:100%;'
+style='max-width:100%;'>
+</img>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg' alt='Angular' width='40' height= '75' style='max-width:100%;'
 style='max-width:100%;'>
 </img>
