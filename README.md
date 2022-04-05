@@ -28,16 +28,14 @@ style='max-width:100%;'>
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='ReactJs' style='max-width:100%;'
 style='max-width:100%;'>
 </img>
+<img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React Native' style='max-width:100%;'
+style='max-width:100%;'>
+</img>
 
 ## Studying
 <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white' alt='Flutter' style='max-width:100%;'
 style='max-width:100%;'>
 </img>
-<img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React Native' style='max-width:100%;'
-style='max-width:100%;'>
-</img>
-
-
 
 ## Contact me
 <div style="display: inline_block">
