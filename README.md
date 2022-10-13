@@ -16,9 +16,6 @@ style='max-width:100%;'>
 <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt='SASS' style='max-width:100%;'
 style='max-width:100%;'>
 </img>
-<img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' alt='Styled' style='max-width:100%;'
-style='max-width:100%;'>
-</img>
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='JavaScript' style='max-width:100%;'
 style='max-width:100%;'>
 <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript' style='max-width:100%;'
@@ -55,6 +52,13 @@ style='max-width:100%;'>
 <img src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white' alt='Redux' style='max-width:100%;'
 style='max-width:100%;'>
 </img>
+<img src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white' alt='Prisma' style='max-width:100%;'
+style='max-width:100%;'>
+</img>
+<img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' alt='Styled' style='max-width:100%;'
+style='max-width:100%;'>
+</img>
+
 
 
 
@@ -67,6 +71,13 @@ style='max-width:100%;'>
 <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white' alt='Flutter' style='max-width:100%;'
 style='max-width:100%;'>
 </img>
+<img src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white' alt='Jest' style='max-width:100%;'
+style='max-width:100%;'>
+</img>
+<img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white' alt='Swift' style='max-width:100%;'
+style='max-width:100%;'>
+</img>
+
 
 ## Contact me
 <div style="display: inline_block">
