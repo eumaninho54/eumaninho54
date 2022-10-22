@@ -68,9 +68,6 @@ style='max-width:100%;'>
 
 
 ## Studying
-<img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white' alt='Flutter' style='max-width:100%;'
-style='max-width:100%;'>
-</img>
 <img src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white' alt='Jest' style='max-width:100%;'
 style='max-width:100%;'>
 </img>
@@ -81,9 +78,14 @@ style='max-width:100%;'>
 
 ## Contact me
 <div style="display: inline_block">
-  <a href='https://www.linkedin.com/in/angelo-menti-663040210/' alt='linkedin' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a><a>
-  <a href='https://discord.gg/yjEc8Fd9mF' alt='discord' target='_blank'><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'></a><a>
-  <img src='https://cdn.discordapp.com/attachments/820384577180663818/900857322014912562/Maninho54.gif' alt='Manin_logo' width='120' height= '120' style='max-width:100%;'
+  <a href='https://www.linkedin.com/in/angelo-menti-663040210/' alt='linkedin' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
+  <a href='https://discord.gg/yjEc8Fd9mF' alt='discord' target='_blank'><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'></a>
+  <a href='https://stackoverflow.com/users/20306452/angelo-menti' alt='stack_overflow' target='_blank'><img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'></a>
+  <img src='https://cdn.discordapp.com/attachments/820384577180663818/900857322014912562/Maninho54.gif' alt='Manin_logo' width='120' height= '120' style='max-       width:100%;'
 style='max-width:100%;' align='right'>
 </img>
+
+
+
+
 <div>
