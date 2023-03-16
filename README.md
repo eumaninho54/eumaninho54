@@ -22,7 +22,10 @@ style='max-width:100%;'>
 style='max-width:100%;'>
 <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' alt='TypeScript' style='max-width:100%;'
 style='max-width:100%;'>
-
+<img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white' alt='Android' style='max-width:100%;'
+style='max-width:100%;'>
+<img src='https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white' alt='Ios' style='max-width:100%;'
+style='max-width:100%;'>
 
 
 ## Frameworks
