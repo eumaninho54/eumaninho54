@@ -4,7 +4,7 @@
 - Currently studying computer engineering. 💻
 - Passionate about coding and solving problems, i breathe programming, i live programming. ❣️
 - I'm very interested in the Front-end and Mobile stack. ✨
-- Mobile developer at @Ploomes
+- Mobile developer at @Ploomes. 📲
 
 
 ## Main Skills
