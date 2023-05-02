@@ -65,6 +65,10 @@ style='max-width:100%;'>
 <img src='https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white' alt='Xcode' style='max-width:100%;'
 style='max-width:100%;'>
 </img>
+<img src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white' alt='Xcode' style='max-width:100%;'
+style='max-width:100%;'>
+</img>
+
 
 
 
