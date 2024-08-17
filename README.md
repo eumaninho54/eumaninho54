@@ -32,3 +32,4 @@
 <a href='https://stackoverflow.com/users/20306452/angelo-menti' alt='stack_overflow' target='_blank'><img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'></a>
 
 ![](https://komarev.com/ghpvc/?username=eumaninho54&label=Visits&style=flat-square&color=blueviolet)
+[![wakatime](https://wakatime.com/badge/user/14ad119d-af4e-404b-9cee-b2717968ad47.svg)](https://wakatime.com/@14ad119d-af4e-404b-9cee-b2717968ad47)
